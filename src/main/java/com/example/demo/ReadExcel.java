@@ -28,7 +28,7 @@ public class ReadExcel {
     private double[] marketCap;
     private String[] sector;
     private String[] industry;
-    int numOfRows;
+    private int numOfRows;
 
     public ReadExcel(String fileName) throws Exception {
 
